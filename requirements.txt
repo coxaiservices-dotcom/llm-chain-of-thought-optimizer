@@ -1,2 +1,10 @@
-streamlit>=1.28.0
+# CLI Chain-of-Thought Optimizer
+# No external dependencies required!
+# This tool uses only Python standard library modules:
+# - argparse (command-line parsing)
+# - json (JSON output format)
+# - sys (system functions)
+# - typing (type hints)
 
+# Minimum Python version: 3.6+
+# Recommended Python version: 3.8+
